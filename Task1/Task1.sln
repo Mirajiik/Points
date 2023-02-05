@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "..\Task\Task.csproj", "{4612C9C5-06F4-474C-A351-68A53132188E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointLib", "..\PointLib\PointLib.csproj", "{3219EE88-5A3C-432C-BBBC-166E3E191B79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4612C9C5-06F4-474C-A351-68A53132188E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4612C9C5-06F4-474C-A351-68A53132188E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4612C9C5-06F4-474C-A351-68A53132188E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4612C9C5-06F4-474C-A351-68A53132188E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3219EE88-5A3C-432C-BBBC-166E3E191B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3219EE88-5A3C-432C-BBBC-166E3E191B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3219EE88-5A3C-432C-BBBC-166E3E191B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3219EE88-5A3C-432C-BBBC-166E3E191B79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8545257E-D704-4E29-ADE4-C9489D8C59E6}
+	EndGlobalSection
+EndGlobal
